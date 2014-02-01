@@ -1,0 +1,42 @@
+From: =?big5?B?pdEgV2luZG93cyBJbnRlcm5ldCBFeHBsb3JlciA3IMB4pnM=?=
+Subject: Q483 Word Scramble
+Date: Tue, 11 Dec 2007 16:40:18 +0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://luckycat.kshs.kh.edu.tw/homework/q483.htm
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6000.16545
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=3D(0032)http://163.15.59.18/acm/q483.htm =
+--><HTML><HEAD><TITLE>Q483 Word Scramble</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dbig5">
+<META content=3D"MSHTML 6.00.6000.16546" name=3DGENERATOR></HEAD>
+<BODY>
+<H1 align=3Dcenter>Q483: Word Scramble</H1>
+<P>=BCg=A4@=A4=E4=B5{=A6=A1=A5i=A5H=B1N=A8C=A4@=AD=D3=B3=E6=A6r=AB=F6=B7=D3=
+=A8C=AD=D3=A6r=A5=C0=A5X=B2{=AA=BA=B6=B6=A7=C7=A4=CF=A7=C7=B1=C6=A6C=A1C<=
+/P>
+<P style=3D"BACKGROUND-COLOR: #ffff00" align=3Dleft><SPAN=20
+style=3D"BACKGROUND-COLOR: #ffff00"><B>Input</B></SPAN></P>
+<P =
+align=3Dleft>=BF=E9=A4J=C0=C9=A5]=A7t=BC=C6=A6C=A1A=A8C=A6C=A6U=A6=B3=BC=C6=
+=AD=D3=B3=E6=A6r=A1C=B3=E6=A6r=BBP=B3=E6=A6r=B6=A1=A5=D1=AA=C5=A5=D5=A6r=A4=
+=B8=A4=C0=B9j=B6}=A8=D3=A1C</P>
+<P style=3D"BACKGROUND-COLOR: #ffff00" align=3Dleft><SPAN=20
+style=3D"BACKGROUND-COLOR: #ffff00"><B>Output</B></SPAN></P>
+<P =
+align=3Dleft>=BF=E9=A5X=AA=BA=A6C=BC=C6=BBP=A6r=BC=C6=A5=B2=B6=B7=BBP=BF=E9=
+=A4J=A4@=BC=CB=A1C=A6=FD=ACO=A8C=AD=D3=B3=E6=A6r=A4=A4=AA=BA=A6r=A5=C0=A5=
+=B2=B6=B7=A4=CF=A7=C7=B1=C6=A6C=A1C</P>
+<P style=3D"BACKGROUND-COLOR: #00ff00" align=3Dleft><SPAN=20
+style=3D"BACKGROUND-COLOR: #00ff00"><B>Sample Input</B></SPAN></P><PRE>I =
+love you.
+You love me.
+We're a happy family.</PRE>
+<P style=3D"BACKGROUND-COLOR: #00ff00" align=3Dleft><SPAN=20
+style=3D"BACKGROUND-COLOR: #00ff00"><B>Sample =
+Output</B></SPAN></P><PRE>I evol .uoy
+uoY evol .em
+er'eW a yppah .ylimaf</PRE></BODY></HTML>

@@ -1,0 +1,91 @@
+From: <Saved by UnMHT>
+Subject: =?iso-2022-jp?B??=
+Date: Tue, Jul 07 2009 23:28:49 GMT+0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0000_7B2E0C4C.0E5685E3";
+	type="text/html"
+
+------=_NextPart_000_0000_7B2E0C4C.0E5685E3
+Content-Type: text/html; charset="Big5"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://luckycat.kshs.kh.edu.tw/homework/q11185.htm
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "">
+<html><head>
+
+
+
+  <meta content=3D"text/html; charset=3Dbig5" http-equiv=3D"Content-Type">
+  <title></title>
+
+
+<base href=3D"http://luckycat.kshs.kh.edu.tw/homework/"></base></head><body=
+>
+
+<h1 align=3D"center">Q11185: Ternary</h1>
+
+<p>=B5=B9=A7A=A4Q=B6i=A6=EC=AA=BA=BC=C6=A6r N=A1A=BD=D0=A7A=A7=E2=A5L=C2=E0=
+=B4=AB=A6=A8 3 =B6i=A6=EC=A1C</p>
+
+<p align=3D"left" style=3D"background-color: rgb(255, 255, 0);"><span style=
+=3D"background-color: rgb(255, 255, 0);"><b>Input</b></span></p>
+
+<p><span lang=3D"zh-tw">=BF=E9=A4J=A5]=A7t=A6h=B2=D5=B4=FA=B8=D5=B8=EA=AE=
+=C6=A1C=A8C=B2=D5=B4=FA=B8=D5=B8=EA=AE=C6=A4@=A6C=A6=B31=AD=D3=BE=E3=BC=C6 =
+N</span>=A1]0
+&lt;=3D N &lt; 1000000001=A1^</p>
+
+<p>=B7=ED N&lt;0 =AE=C9=A1A=A5N=AA=ED=BF=E9=A4J=B5=B2=A7=F4=A1C</p>
+
+<p align=3D"left" style=3D"background-color: rgb(255, 255, 0);"><span style=
+=3D"background-color: rgb(255, 255, 0);"><b>Output</b></span></p>
+
+<p>=A8C=B2=D5<span lang=3D"zh-tw">=B4=FA=B8=D5=B8=EA=AE=C6</span>=BF=E9=A5X=
+=A4@=A6C=A1A=BF=E9=A5X N =AA=BA
+3 =B6i=A6=EC=AA=ED=A5=DC=A1C</p>
+
+<table cellpadding=3D"5" border=3D"1" width=3D"100%">
+
+  <tbody>
+
+    <tr>
+
+      <td bgcolor=3D"#00ff00" width=3D"50%"><b>Sample
+Input</b></td>
+
+      <td bgcolor=3D"#00ff00" width=3D"50%"><b>Sample
+Output</b></td>
+
+    </tr>
+
+    <tr>
+
+      <td width=3D"50%">
+      <pre>0<br>1<br>2<br>3<br>10<br>100<br>1000<br>-9<span class=3D"postbo=
+dy"><br></span></pre>
+
+      </td>
+
+      <td width=3D"50%">
+      <pre>0<br>1<br>2<br>10<br>101<br>10201<br>1101001<br><br></pre>
+
+      </td>
+
+    </tr>
+
+  </tbody>
+</table>
+
+
+
+
+ =
+=20
+ =
+=20
+
+
+
+</body></html>
+------=_NextPart_000_0000_7B2E0C4C.0E5685E3--

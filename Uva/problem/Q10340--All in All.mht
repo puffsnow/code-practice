@@ -1,0 +1,42 @@
+From: =?big5?B?pdEgV2luZG93cyBJbnRlcm5ldCBFeHBsb3JlciA3IMB4pnM=?=
+Subject: 
+Date: Tue, 11 Dec 2007 11:47:28 +0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://luckycat.kshs.kh.edu.tw/homework/q10340.htm
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6000.16545
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE></TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dbig5">
+<META content=3D"MSHTML 6.00.6000.16546" name=3DGENERATOR></HEAD>
+<BODY>
+<H1 align=3Dcenter>Q10340: All in All</H1>
+<P>=B5=B9=A7A2=AD=D3=A6r=A6=EAs,t=A1A=BD=D0=A7A=BCg=A4@=AD=D3=B5{=A6=A1=A7=
+P=C2_=ACO=A7_s=ACOt=AA=BA=A4l=A6r=A6=EA=A1C=A4]=B4N=ACO=BB=A1=B7=ED=A7A=B2=
+=BE=A8=ABt=A6r=A6=EA=A4=A4=AA=BA=ACY=A8=C7=A6r=A4=B8=AB=E1=A1A=B3=D1=A4U=AA=
+=BA=A6r=A6=EA=B4N=ACOs=A1C</P>
+<P style=3D"BACKGROUND-COLOR: #ffff00" align=3Dleft><SPAN=20
+style=3D"BACKGROUND-COLOR: #ffff00"><B>Input</B></SPAN></P>
+<P>=A8C=B5=A7=B4=FA=B8=D5=B8=EA=AE=C6=A4@=A6C=A1C=A8C=A6C=A6=B32=AD=D3=A6=
+r=A6=EA=A1As=A4=CEt=A1A=A5H=AA=C5=A5=D5=A4=C0=B9j=A1C</P>
+<P style=3D"BACKGROUND-COLOR: #ffff00" align=3Dleft><SPAN=20
+style=3D"BACKGROUND-COLOR: #ffff00"><B>Output</B></SPAN></P>
+<P>=B9=EF=A8C=A4@=A6C=BF=E9=A4J=A1A=BD=D0=BF=E9=A5X=ACO=A7_s=ACOt=AA=BA=A4=
+l=A6r=A6=EA=A1C</P>
+<P style=3D"BACKGROUND-COLOR: #00ff00" align=3Dleft><SPAN=20
+style=3D"BACKGROUND-COLOR: #00ff00"><B>Sample Input</B></SPAN></P><PRE =
+style=3D"TEXT-ALIGN: justify"><SPAN class=3DGramE>abc abc
+sequence</SPAN> subsequence<SPAN class=3DGramE>
+person</SPAN> compression
+VERDI vivaVittorioEmanueleReDiItalia<SPAN class=3DGramE>
+caseDoesMatter</SPAN> CaseDoesMatter</PRE>
+<P style=3D"BACKGROUND-COLOR: #00ff00" align=3Dleft><SPAN=20
+style=3D"BACKGROUND-COLOR: #00ff00"><B>Sample Output</B></SPAN></P><PRE =
+style=3D"TEXT-ALIGN: justify">Yes
+Yes
+No
+Yes
+No</PRE></BODY></HTML>

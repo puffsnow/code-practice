@@ -1,0 +1,54 @@
+From: =?big5?B?pdEgV2luZG93cyBJbnRlcm5ldCBFeHBsb3JlciA3IMB4pnM=?=
+Subject: 
+Date: Tue, 11 Dec 2007 11:49:37 +0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://luckycat.kshs.kh.edu.tw/homework/q10783.htm
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6000.16545
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE></TITLE>
+<META http-equiv=3DContent-Language content=3Dzh-tw>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dbig5">
+<META content=3D"MSHTML 6.00.6000.16546" name=3DGENERATOR></HEAD>
+<BODY>
+<H1 align=3Dcenter>Q10783: Odd Sum</H1>
+<P>=B5=B9=A7A=A4@=AD=D3=BDd=B3=F2 a =A8=EC b =A1A=BD=D0=A7A=A7=E4=A5X a =
+=BBP b =A4=A7=B6=A1=A9=D2=A6=B3=A9_=BC=C6=AA=BA=A9M=A1C</P>
+<P>=A8=D2=A6p=A1G=BDd=B3=F2 [3, 9] =
+=A4=A4=A9=D2=A6=B3=A9_=BC=C6=AA=BA=A9M=B4N=ACO 3 + 5 + 7 + 9 =3D 24 =
+=A1C</P>
+<P style=3D"BACKGROUND-COLOR: #ffff00" align=3Dleft><B><SPAN=20
+style=3D"BACKGROUND-COLOR: #ffff00"><A=20
+name=3DSECTION0001001000000000000000>Input</A></SPAN></B></P>
+<P>=BF=E9=A4J=AA=BA=B2=C4=A4@=A6C=A6=B3=A4@=AD=D3=BE=E3=BC=C6 T =
+=A1]1=A1=D8T=A1=D8100=A1^=A1A=A5N=AA=ED=A5H=A4U=A6=B3=A6h=A4=D6=B2=D5=B4=FA=
+=B8=D5=B8=EA=AE=C6=A1C</P>
+<P>=A8C=B2=D5=B4=FA=B8=D5=B8=EA=AE=C6=AC=B0=A8=E2=A6C=A1A=A5]=A7t=A8=E2=AD=
+=D3=BC=C6 a =BBP b =A1]0=A1=D8a=A1=D8b=A1=D8100=A1^=A1C</P>
+<P style=3D"BACKGROUND-COLOR: #ffff00" align=3Dleft><B><SPAN=20
+style=3D"BACKGROUND-COLOR: #ffff00"><A=20
+name=3DSECTION0001002000000000000000>Output</A></SPAN></B></P>
+<P>=A8C=B2=D5=B4=FA=B8=D5=B8=EA=AE=C6=BF=E9=A5X=A4@=A6C=A1A=A4=BA=AEe=AC=B0=
+ a =A4=CE b =B6=A1=A9=D2=A6=B3=A9_=BC=C6=AA=BA=A9M=A1C</P>
+<P style=3D"BACKGROUND-COLOR: #00ff00" align=3Dleft><B><SPAN=20
+style=3D"BACKGROUND-COLOR: #00ff00"><A =
+name=3DSECTION0001003000000000000000>Sample=20
+Input</A></SPAN></B></P><PRE>2
+1
+5
+3
+5</PRE>
+<P style=3D"BACKGROUND-COLOR: #00ff00" align=3Dleft><B><SPAN=20
+style=3D"BACKGROUND-COLOR: #00ff00"><A =
+name=3DSECTION0001004000000000000000>Sample=20
+Output</A></SPAN></B></P><PRE>Case 1: 9
+Case 2: 8</PRE>
+<HR>
+
+<ADDRESS><FONT color=3D#ffff00><SPAN=20
+style=3D"FONT-STYLE: normal; BACKGROUND-COLOR: rgb(0,0,0)">Translated by =
+
+swpeng</SPAN></FONT></ADDRESS></BODY></HTML>

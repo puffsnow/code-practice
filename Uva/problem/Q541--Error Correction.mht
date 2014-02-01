@@ -1,0 +1,115 @@
+From: <Saved by UnMHT>
+Subject: =?iso-2022-jp?B??=
+Date: Fri, Jul 10 2009 15:54:37 GMT+0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0000_1340EA86.76A981A3";
+	type="text/html"
+
+------=_NextPart_000_0000_1340EA86.76A981A3
+Content-Type: text/html; charset="Big5"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://luckycat.kshs.kh.edu.tw/homework/q541.htm
+
+<html><head>
+
+
+<meta content=3D"zh-tw" http-equiv=3D"Content-Language">
+<meta content=3D"text/html; charset=3Dbig5" http-equiv=3D"Content-Type">
+<title></title>
+<base href=3D"http://luckycat.kshs.kh.edu.tw/homework/"></base></head><body=
+>
+<h1 align=3D"center">Q541: Error Correction </h1>
+<p>=B7=ED=A4@=AD=D3=A5=AC=AAL=AFx=B0}=A8C=A4@=A6=E6=AA=BA=A9M=BBP=A8C=A4@=
+=A6C=AA=BA=A9M=B3=A3=ACO=B0=B8=BC=C6=AA=BA=AE=C9=AD=D4=A1A=A7=DA=AD=CC=BA=
+=D9=B3o=BA=D8=A9=CA=BD=E8=AC=B0=B5=A5=BB=F9=A1C<br>
+<br>
+=A8=D2=A6p=A1A=A4U=AD=B1=ACO=A4@=AD=D3 4x4 =AA=BA=A4@=AD=D3=B5=A5=BB=F9=B5u=
+=B0}=A1C <br>
+<br>
+1 0 1 0<br>=
+=20
+0 0 0 0<br>=
+=20
+1 1 1 1<br>=
+=20
+0 1 0 1<br>=
+=20
+<br>=
+=20
+=A8C=A4@=A6C=AA=BA=A9M=A4=C0=A7O=ACO2,0,4,2=A1F=A6=D3=A8C=A4@=A6=E6=AA=BA=
+=A9M=A4=C0=A7O=ACO2,2,2,2=A1C<br>
+<br>
+=A7A=AA=BA=A4u=A7@=A7Y=ACO=ADn=BCg=AD=D3=B5{=A6=A1=C5=AA=A4J=AFx=B0}=A5B=C0=
+=CB=ACd=A5L=A6=B3=A8S=A6=B3=B5=A5=BB=F9=A1C=A6p=AAG=A8S=A6=B3=A1A=A7A=B1o=
+=C0=CB=ACd=AF=E0=A4=A3=AF=E0=A6b=A5u=A7=EF=C5=DC=A4@=AD=D3=A6=EC=A4=B8=AA=
+=BA=AA=AC=AAp=A4U=A8=CF=A5L=B5=A5=BB=F9=A1A=A6p=AAG=A4=A3=A6=E6=A1A=A8=BA=
+=B3o=AD=D3=AFx=B0}=B4N=B1o=C2k=C3=FE=AC=B0=B7l=B7=B4=A1]corrupt=A1^=A1C</p>
+<p align=3D"left" style=3D"background-color: rgb(255, 255, 0);"><b><span st=
+yle=3D"background-color: rgb(255, 255, 0);"><a name=3D"SECTION0001001000000=
+000000000">Input</a></span></b></p>
+<p>=BF=E9=A4J=A5]=A7t=A4@=A9=CE=BC=C6=AD=D3=B4=FA=B8=EA=A1C<br>=A8C=AD=D3=
+=B4=FA=B8=EA=AA=BA=B2=C4=A4@=A6C=ACO=A4@=AD=D3=BE=E3=BC=C6=
+=20
+n ( n &lt; 100 )=A1A=A5N=AA=ED=AFx=B0}=AA=BA=A4j=A4p=A1F=B1=B5=A4U=A8=D3=AA=
+=BA n =A6C=A1A=A8C=A6=E6=A6=B3 n =AD=D3=BC=C6=A6r=A1A=A7Y=AC=B0=AFx=B0}=A1C=
+=A6b=AFx=B0}=A4=A4=A5u=B7|=A5X=B2{=
+=20
+0 =A4=CE 1=A1C=B7=ED n=3D0 =AE=C9=A5N=AA=ED=BF=E9=A4J=B5=B2=A7=F4=A1C</p>
+<p align=3D"left" style=3D"background-color: rgb(255, 255, 0);"><b><span st=
+yle=3D"background-color: rgb(255, 255, 0);"><a name=3D"SECTION0001002000000=
+000000000">Output</a></span></b></p>
+<p>=B9=EF=A9=F3=A8C=A4@=AD=D3=AFx=B0}=BD=D0=BF=E9=A5X=A4@=A6C=A1C<br>
+=A6p=AAG=B8=D3=AFx=B0}=A4w=B8g=ACO=B5=A5=BB=F9=AA=BA=A1A=BD=D0=BF=E9=A5XOK=
+=A1F<br>
+=A6p=AAG=B8g=A5=D1=A7=EF=C5=DC=B2=C4 i =A6C=B2=C4 j =A6=E6=AA=BA=A6=EC=A4=
+=B8=A7Y=A5i=A6=A8=AC=B0=B5=A5=BB=F9=A1A=BD=D0=BF=E9=A5XChange bit (i,j)=A1F=
+<br>=
+=20
+=A7_=ABh=BD=D0=BF=E9=A5XCorrupt=A1C=
+=20
+</p>=
+=20
+<p align=3D"left" style=3D"background-color: rgb(0, 255, 0);"><b><span styl=
+e=3D"background-color: rgb(0, 255, 0);"><a name=3D"SECTION00010030000000000=
+00000">Sample Input</a></span></b></p>=
+=20
+<pre>4
+1 0 1 0
+0 0 0 0
+1 1 1 1
+0 1 0 1
+4
+1 0 1 0
+0 0 1 0
+1 1 1 1
+0 1 0 1
+4
+1 0 1 0
+0 1 1 0
+1 1 1 1
+0 1 0 1
+0</pre>=
+=20
+<p align=3D"left" style=3D"background-color: rgb(0, 255, 0);"><b><span styl=
+e=3D"background-color: rgb(0, 255, 0);"><a name=3D"SECTION00010040000000000=
+00000">Sample Output</a></span></b></p>=
+=20
+<pre>OK
+Change bit (2,3)
+Corrupt</pre>=
+=20
+=
+=20
+<hr>=
+=20
+<address>=
+=20
+	<font color=3D"#ffff00">=
+=20
+	<span style=3D"font-style: normal; background-color: rgb(0, 0, 0);">Transl=
+ated by=
+=20
+    kid </span></font></address>
+</body></html>
+------=_NextPart_000_0000_1340EA86.76A981A3--

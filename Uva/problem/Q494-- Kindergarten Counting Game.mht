@@ -1,0 +1,40 @@
+From: =?big5?B?pdEgV2luZG93cyBJbnRlcm5ldCBFeHBsb3JlciA3IMB4pnM=?=
+Subject: 
+Date: Tue, 11 Dec 2007 11:39:44 +0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://luckycat.kshs.kh.edu.tw/homework/q494.htm
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6000.16545
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE></TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dbig5">
+<META content=3D"MSHTML 6.00.6000.16546" name=3DGENERATOR>
+<META content=3DFrontPage.Editor.Document name=3DProgId></HEAD>
+<BODY>
+<H1 align=3Dcenter>Q494: Kindergarten Counting Game</H1>
+<P>=BA=E2=A4@=BA=E2=A8C=A6=E6=A6=B3=B4X=AD=D3=A6r=A1]word=A1^=A1C<BR>Word=
+=AA=BA=A9w=B8q=ACO=B3s=C4=F2=AA=BA=A6r=A4=B8=A1]letter: A~Z =
+a~z=A1^=A9=D2=B2=D5=A6=A8=AA=BA=A6r=A1C</P>
+<P style=3D"BACKGROUND-COLOR: #ffff00" align=3Dleft><SPAN=20
+style=3D"BACKGROUND-COLOR: #ffff00"><B>Input</B></SPAN></P>
+<P =
+align=3Dleft>=B4=FA=B8=D5=B8=EA=AE=C6=A8C=B5=A7=A4@=A6=E6=A1A=A8C=A6=E6=A6=
+=DC=A4=D6=A6=B3=A4@=AD=D3=A6r=A1C</P>
+<P style=3D"BACKGROUND-COLOR: #ffff00" align=3Dleft><SPAN=20
+style=3D"BACKGROUND-COLOR: #ffff00"><B>Output</B></SPAN></P>
+<P align=3Dleft>=BF=E9=A5X=A8C=A4@=A6=E6=AA=BAword=BC=C6=A1C</P>
+<P style=3D"BACKGROUND-COLOR: #00ff00" align=3Dleft><SPAN=20
+style=3D"BACKGROUND-COLOR: #00ff00"><B>Sample =
+input</B></SPAN></P><PRE>Meep Meep!
+I tot I taw a putty tat.
+I did! I did! I did taw a putty tat.
+Shsssssssssh ... I am hunting wabbits. Heh Heh Heh Heh ...</PRE>
+<P style=3D"BACKGROUND-COLOR: #00ff00" align=3Dleft><SPAN=20
+style=3D"BACKGROUND-COLOR: #00ff00"><B>Sample =
+Output</B></SPAN></P><PRE>2
+7
+10
+9</PRE></BODY></HTML>

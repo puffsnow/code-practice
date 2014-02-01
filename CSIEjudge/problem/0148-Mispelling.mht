@@ -1,0 +1,524 @@
+From: <Saved by UnMHT>
+Subject: =?iso-2022-jp?B?TlRVIE9ubGluZSBKdWRnZQ==?=
+Date: Mon, Jul 20 2009 11:44:44 GMT+0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0000_A9B19335.349A983E";
+	type="text/html"
+
+------=_NextPart_000_0000_A9B19335.349A983E
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://acm.csie.ntu.edu.tw/ntujudge/problem.php?id=148
+
+=EF=BB=BF<html><head>
+
+
+<title>NTU Online Judge</title>
+<meta content=3D"text/html; charset=3DUTF-8" http-equiv=3D"Content-Type">
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"lib/css/style.css"></lin=
+k>
+<script src=3D"lib/javascript/util.js" type=3D"text/javascript"></script>
+<base href=3D"http://acm.csie.ntu.edu.tw/ntujudge/"></base></head><body bgc=
+olor=3D"black">
+
+<center>
+<table bgcolor=3D"white" width=3D"900" style=3D"margin: 5px;">
+
+<tbody><tr>
+	<td align=3D"center" class=3D"header" colspan=3D"2">
+		<font color=3D"white">
+		<a href=3D"index.php?id=3D27"><h1>National Taiwan University Online Judge=
+</h1></a>
+		</font>
+	</td>
+</tr>
+
+<tr>
+	<td height=3D"450" align=3D"center" width=3D"100" valign=3D"top" style=3D"=
+padding: 10px;">
+		<img src=3D"images/judgegirl_logo_100x100.gif"><br><br>
+		<div id=3D"rightPanel">
+<ul class=3D"function_list">
+=
+=09
+<li><a href=3D"submit.php">submit</a></li>
+<li><a href=3D"user_info.php?user_id=3D217">my info</a></li>
+
+<li><a href=3D"volumelist.php">problemset</a></li>
+<li><a href=3D"tags.php">tags <img border=3D"0" src=3D"images/new.gif"></a>=
+</li>
+<!--<a href=3Dproblemset.php>problemset</a></li>-->
+<li><a href=3D"contest.php">contest</a></li>
+
+<li><a href=3D"status.php?user_id=3D217">judge status</a></li>
+
+<li><a href=3D"ranklist.php">ranklist</a></li>
+<li><a href=3D"discussion.php">discussion</a></li>
+<li><a href=3D"bin/logout.php">logout</a></li>
+</ul>
+</div>
+	</td>
+
+	<td align=3D"center" width=3D"800" style=3D"padding: 10px;">
+
+		<table height=3D"500" width=3D"700" class=3D"regform">
+			<tbody><tr>
+				<td class=3D"regform" colspan=3D"2">
+					<span class=3D"note">problem id: 0148</span>
+					<br>
+					<b><font color=3D"#336699"><font size=3D"5">Mispelling</font></font></=
+b>
+<font color=3D"#336699">					<br>
+					Time Limit: 10 sec<br>
+					Output Limit: 100 kB<br>
+				</font></td>
+			</tr>
+			<tr>
+				<td class=3D"regform" colspan=3D"2">
+					<b>Description</b><br><br>
+					Misspelling is an art form that students seem to excel at. Write a pro=
+gram that removes the nth character from an input string.				</td>
+			</tr>
+			<tr>
+				<td class=3D"regform" colspan=3D"2">
+					<b>Input</b><br><br>
+					The first line of input contains a single integer N, (1 =E2=89=A4 N =
+=E2=89=A4 1000) which is the number of datasets that follow.<br><br>
+Each dataset consists of a single line of input containing M, a space, and =
+a single word made up of uppercase letters only. M will be less than or equ=
+al to the length of the word. The length of the word is guaranteed to be le=
+ss than or equal to 80.				</td>
+			</tr>
+			<tr>
+				<td class=3D"regform" colspan=3D"2">
+					<b>Output</b><br><br>
+					For each dataset, you should generate one line of output with the foll=
+owing values: The dataset number as a decimal integer (start counting at on=
+e), a space, and the misspelled word. The
+misspelled word is the input word with the indicated character deleted.				=
+</td>
+			</tr>
+			<tr>
+				<td valign=3D"top" class=3D"regform">
+					<b>Sample Input</b><br>
+<pre>4
+4 MISSPELL
+1 PROGRAMMING
+7 CONTEST
+3 BALLOON</pre>
+				</td>
+				<td valign=3D"top" class=3D"regform">
+					<b>Sample Output</b><br>
+<pre>1 MISPELL
+2 ROGRAMMING
+3 CONTES
+4 BALOON</pre>
+				</td>
+			</tr>
+
+		=
+=09
+						<tr>
+				<td colspan=3D"2" class=3D"regform">
+				<b onclick=3D"document.getElementById('tag').style.display=3D'block';">
+				Tags(click here to see tags)</b><br>
+				<span style=3D"display: none;" id=3D"tag">
+				<br>
+				<form action=3D"problem.php?id=3D148" method=3D"post">
+					<input type=3D"text" name=3D"tag" size=3D"10"></input>
+					<input type=3D"submit" name=3D"submit" value=3D"Add New Tag"></input>
+				</form>
+				</span>
+				</td>
+			</tr>
+		=
+=09
+	</tbody></table>
+	<br>
+	<a href=3D"submit.php?id=3D0148">submit</a>
+	</td>
+</tr>
+
+<tr>
+	<td align=3D"center" class=3D"header" colspan=3D"2">
+		<font color=3D"white">
+		<font size=3D"2">
+programmer: =E5=8A=89=E9=82=A6=E9=8B=92 pangfeng, =E4=B8=8A=E5=AE=98=E6=9E=
+=97=E5=82=91 ericsk, =E9=99=B3=E6=98=A0=E7=9D=BF springgod, =E7=8E=8B=E5=B0=
+=B9 cindylinz, =E8=95=AD=E4=BF=8A=E5=AE=8F chhsiao.<br>
+Imager: =E6=B1=9F=E6=98=8C=E9=B4=BB senkousha.<br>
+modified by: =E9=AB=98=E7=B4=B9=E8=88=AA denehs, =E6=B2=88=E5=AE=9A beephoe=
+nix
+</font>
+
+		</font>
+	=
+=09
+	</td>
+</tr>
+</tbody></table>
+
+
+</center></body></html>
+------=_NextPart_000_0000_A9B19335.349A983E
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://acm.csie.ntu.edu.tw/ntujudge/lib/css/style.css
+
+
+body {
+	position: relative;
+	font: 80% "Lucida Grande", Arial, Verdana, Lucida, Helvetica, Arial, sans-=
+serif;
+	color: #336699;
+	margin: 0;
+	padding: 0;
+	background: #000000;
+}
+
+/* -----style----- */
+
+hr {
+	border: 0px;
+	border-top: 1px solid #8cacbb;
+	text-align:center;
+	height: 0px;
+}
+
+input, select {
+	border: 1px solid #8cacbb;
+	color: darkblue;
+	background-color: white;
+	vertical-align: middle;
+	text-decoration:none;
+	font-size: 100%;
+	height: 22px !important;
+	max-height: 22px !important;
+	min-height: 22px !important;
+	margin: 1px;
+	display: inline;
+}
+
+a=
+=20
+{
+	color:#436976;
+	text-decoration:none;
+}
+
+a:hover {
+	color: darkblue;
+	text-decoration:underline;
+}
+
+/* general headline setup */
+
+h1, h2, h3, h4, h5 {
+	color: #006699;
+	background-color: transparent;
+	font-family: "Lucida Grande", Verdana, Lucida, Helvetica, Arial, sans-seri=
+f;
+	font-size: 100%;
+	font-weight: normal;
+	margin-left:    0;
+	margin-right:   0;
+	margin-top:     0;
+	margin-bottom:  1em;
+	padding-left:   0;
+	padding-right:  0;
+	padding-top:    0.5em;
+	padding-bottom: 0;
+	border-bottom: 1px solid #8cacbb;
+	clear: left;
+}
+
+h1 {
+	color: #FFFFFF;
+}
+
+/* special headlines */
+h1 {font-size: 160%; margin-left: 0px; font-weight: bold;}
+h2 {font-size: 150%; margin-left: 20px;}
+h3 {font-size: 140%; margin-left: 40px; border-bottom: none; font-weight: b=
+old;}
+h4 {font-size: 120%; margin-left: 60px; border-bottom: none; font-weight: b=
+old;}
+h5 {font-size: 100%; margin-left: 80px; border-bottom: none; font-weight: b=
+old;}
+
+/* indent different sections */
+div.level1 {margin-left: 3px;}
+div.level2 {margin-left: 23px;}
+div.level3 {margin-left: 43px;}
+div.level4 {margin-left: 63px;}
+div.level5 {margin-left: 83px;}
+
+.note {
+	font-size: 11px;
+	color: #336699;
+	font-family: Arial;
+}
+
+table.super {
+	border: 1px solid #DDDDDD;
+	padding: 0px;
+	margin: 0px;
+}
+
+td.super {
+	padding: 7px;
+	margin: 0px;
+
+	background-color: #336699;
+	color: white;
+}
+
+table.regform {
+	border: 1px solid #336699;
+	padding: 1px;
+}
+
+td.regform {
+	padding: 7px;
+	margin: 0px;
+
+	border: 1px solid #EEEEEE;
+	font-size: 12px;
+}
+
+td.statusform {
+	padding: 2px;
+	margin: 0px;
+
+	border: 1px solid #EEEEEE;
+	font-size: 12px;
+}
+
+td.header {
+    background-color: #003366;
+}
+
+@charset "utf-8";
+
+/************************************************
+                  RIGHT MENU
+************************************************/
+
+#rightPanel .function_list{
+	text-align: left;
+	float:left; display:inline;
+	margin:0px; padding:0px;
+	margin-bottom:4px;
+	width:128px;
+	border-left:1px solid #dbdce3;
+	border-right:1px solid #dbdce3;
+	border-bottom:1px solid #dbdce3;
+}
+#rightPanel .function_list li{
+	float:left; display:inline;
+	margin:0px; padding:0px;
+	width:128px;
+	height:30px;
+	border-top:1px solid #dbdce3;
+}
+#rightPanel .function_list li.tree_root{
+	float:left;
+	display:block;
+	margin:0px;
+	padding:0px;
+	width:160px;
+	height:21px;
+	border-top:1px solid #dbdce3;
+	color:#666;
+	background:url(../../img/memberSet/icon_list_tree_root.gif) no-repeat left=
+ top #FFFFFF;
+	padding:9px 0 0 28px;
+	line-height:9pt;
+	cursor: pointer;
+}
+#rightPanel .function_list li.tree_root_open{
+	float:left;
+	display:block;
+	margin:0px;
+	padding:0px;
+	width:160px;
+	height:21px;
+	border-top:1px solid #dbdce3;
+	color:#666;
+	background:url(../../img/memberSet/icon_list_tree_root.gif) no-repeat left=
+ bottom #FFFFFF;
+	padding:9px 0 0 28px;
+	line-height:9pt;
+	cursor: pointer;
+}
+#rightPanel .function_list li.tree_level1{
+	float:left; display:inline;
+	margin:0px; padding:0px;
+	width:188px;
+	height:26px;
+	border-top:1px solid #dbdce3;
+	background:#f5f5f5;
+}
+#rightPanel .function_list li a{
+	font-size: 12px;
+	color: #2593B7;
+	float:left; display:block;
+	margin:0px; padding:0px;
+	width:100px;
+	height:30px; line-height:30px;
+	background:url(http://acm.csie.org/ntujudge/images/icon_list1.gif) no-repe=
+at left top #FFFFFF;
+	padding-left:28px;
+}
+#rightPanel .function_list li a:hover{
+	background-position:left bottom;
+	background-color:#2573B7;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+#rightPanel .function_list li a.step {background-position:left bottom;}
+#rightPanel .function_list li a.highLight{
+	background:url(http://acm.csie.org/ntujudge/images/icon_list1_highLight.gi=
+f) no-repeat left top;
+}
+#rightPanel .function_list li a.highLight:hover{
+	background-position:left bottom;
+}
+
+#rightPanel .function_list li.tree_level1 a{
+	width:150px; height:26px; line-height:26px;
+	background:url(http://acm.csie.org/ntujudge/images/icon_list_tree_Level1.g=
+if) no-repeat #F5F5F5 left top;
+	padding-left:38px;
+}
+
+body #container #mainPanel #rightPanel .function_list li.tree_level1 a:hove=
+r {
+	background-color:#35C3E7;
+	background-position:left bottom;
+}
+
+
+------=_NextPart_000_0000_A9B19335.349A983E
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://acm.csie.ntu.edu.tw/ntujudge/lib/javascript/util.js
+
+var image_path =3D "/ntujudge/problemdata/";
+
+function image(filename) {
+    document.write("<img src=3D'" + image_path + filename + "'>");
+}
+
+
+function displayAnn(ann) {
+	var now =3D new Date();
+	for(var i=3D0; i<ann.length; i++) {
+		var r =3D ann[i];
+		var start =3D new Date(r[0]), end =3D new Date(r[1]);
+		if(now < start || now > end) document.getElementById(r[2]).style.display =
+=3D "none";
+	}
+}
+------=_NextPart_000_0000_A9B19335.349A983E
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://acm.csie.ntu.edu.tw/ntujudge/images/judgegirl_logo_100x100.gif
+
+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
+
+------=_NextPart_000_0000_A9B19335.349A983E
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://acm.csie.org/ntujudge/images/icon_list1.gif
+
+R0lGODlhEQA8ANUAAP///8fUy+Dm4v7////+/+Dm5P7+/oa6nv/9/v3//vz//+zx6/7//f/9/5Op
+nZOrnpSqnuHm4pOon5OqoPz//evw7P3//P///fv//pKqneHl5Ovv7uDk45SqnZWpoJKpn+Dl4ZDC
+p5Grnurw7JOrnZOooQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAARADwAAAb/QFBE
+UwAYj8ijYFlMOgFLQfOJjE6pRiu2ytwqu14o2KsNlwkDDIBwHAzEUsAgQWC7jXR40QAwvAkUEnx8
+WgMECG8XDBAeFmtlRogSDxAkEAwJZwhyHw8OHQ4PDFpseBOhDiIVA4V4BCMLGRMVWV2GAAoADQol
+G296fXVuBAYKboRjdoYNfbVxpZt3XHFGfNG5za3NdUlafEjc1aR+a32/RhFSV1hM61TpHO5PUQJh
+cPVhAfoB9vv8+fv6BQSoT2BBgv+8+DOYcMvCNWnKGbmzcA43aXkWDvpD4cAgABUPJWJw4IAjkAMj
+DSjJkgHKg4fksCwZ4iW/UgASzDywwKYcPlcLFpTs6fNWrl08f2kUZqjYMZ9GlBFg9m0hNDnnjDxs
+dq1aUa/hjmhMEtaAVXJsyIlN6ZAtlq1tDyp0SyUIADs=
+
+------=_NextPart_000_0000_A9B19335.349A983E
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://acm.csie.ntu.edu.tw/ntujudge/images/new.gif
+
+R0lGODlhGgALAOZ/APZdAMIpAPNZAP/////+/////ZAkAP7//6gpAMUtAPFbAMgtAccsAMEpAKU4
+ANQ9BJ82AP7//agqAJsxAJgsAJcsAJkqAPJbAudQAcUuAKc9AZwwAY8lAOdLAPRaAONLAL8qAMUu
+AfdeAaU3As0zAak9APBWAJQmAcRIAMMvAf/9/vZcAss0Aag8AP3//psvAKE2AsYtAcZGAKM4AKM5
+AMZHAOlRANM3APFaAPhdAMUsAP7+/p80AJIoAe1VAZMoAKI3AO5WA6I0Af7/+5AjAporAOxXAP3+
+/8dHAJYrAKI5ALAzA5MnAcZIAMUsAqo8AdI5AM80AKEzAuRKANhAAZEnAM84AKcnAKcqAKosAMdG
+BO9XBOBGANc+A+RMAcYuAJQnANxFANxEA91GAd5GAJ4wAJ8zApQuAJcsAqE2AN5EAMZFAdVAAMgs
+A+pPAMgtAI4mA54vAak8AZQoAvFWA9A5AtA6APz//9k9AupRAac9AM0zALEzAJImAP3//P///yH5
+BAEAAH8ALAAAAAAaAAsAAAf/gH85KyIAhoeIiYciKzl/HgoKOBcClZaXmAIXOJEeJkZbaxooMnpI
+JU9yTS1aQSgtNSU1GjI+JnR5NhgOBUAjBEoHBAcOBzQzMwM0OyMFDm66H1MdEAMEaTswA2YQMAVC
+AzwDUgUQBBBeHx1kY2ovAy9HBBsuQwRlAxMRcRETBxN3NojhEuYBlS4UXFSgUIACgQpJKgygEOFM
+ATQWlhThg6cLGyg37PQZ0OMEgR9+DgxgAmbAHBVVTqjosdJKnRt7SERBYECCBDg8DfTMYgABkSxX
+DGDhgIAECxYJnDBI8WZBggRfYrTRkYHBghQJdDCIkSHEggUMQvxpEAAE2wBwC+PKndsARIAGfwIB
+ADs=
+
+------=_NextPart_000_0000_A9B19335.349A983E--

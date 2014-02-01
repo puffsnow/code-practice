@@ -1,0 +1,46 @@
+From: =?big5?B?pdEgV2luZG93cyBJbnRlcm5ldCBFeHBsb3JlciA3IMB4pnM=?=
+Subject: 
+Date: Tue, 11 Dec 2007 11:43:57 +0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://luckycat.kshs.kh.edu.tw/homework/q10055.htm
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6000.16545
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE></TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dbig5">
+<META content=3D"MSHTML 6.00.6000.16546" name=3DGENERATOR>
+<META content=3DFrontPage.Editor.Document name=3DProgId></HEAD>
+<BODY>
+<H1 align=3Dcenter>Q10055: Hashmat the brave warrior</H1>
+<P>Hashmat=ACO=A4@=AD=D3=ABi=B4=B1=AA=BA=B1N=BB=E2=A1A=A5L=B1a=B5=DB=A6~=BB=
+=B4=AA=BA=A4h=A7L=B1q=B3o=AD=D3=AB=B0=A5=AB=B2=BE=B0=CA=A8=EC=A5t=A4@=AD=D3=
+=AB=B0=A5=AB=BBP=BC=C4=A4H=B9=EF=A7=DC=A1C=A6b=A5=B4=A5M=A4=A7=ABe=A5L=B7=
+|=ADp=BA=E2=A4v=A4=E8=BBP=BC=C4=A4=E8=A4h=A7L=AA=BA=BC=C6=A5=D8=AEt=B6Z=A1=
+A=A8=D3=A8M=A9w=ACO=ADn=B6}=A5=B4=A9=CE=A4=A3=B6}=A5=B4=A1CHashmat=AA=BA=A4=
+h=A7L=BC=C6=B5=B4=A4=A3=B7|=A4=F1=BC=C4=A4H=AA=BA=A4h=A7L=BC=C6=A4j=A1C</=
+P>
+<P style=3D"BACKGROUND-COLOR: #ffff00" align=3Dleft><SPAN=20
+style=3D"BACKGROUND-COLOR: #ffff00"><B>Input</B></SPAN></P>
+<P =
+align=3Dleft>=A8C=B2=D5=B4=FA=B8=D5=B8=EA=AE=C61=A6C=A1A=A6=B32=AD=D3=BE=E3=
+=BC=C6=A1A=A5N=AA=EDHashmat=A4=CE=BC=C4=A4H=AA=BA=A4h=A7L=BC=C6=A9=CE=A4=CF=
+=A4=A7=A1C=B3o=A8=C7=BC=C6=A4=A3=B7|=B6W=B9L2<SUP>32</SUP>=A1C</P>
+<P style=3D"BACKGROUND-COLOR: #ffff00" align=3Dleft><SPAN=20
+style=3D"BACKGROUND-COLOR: #ffff00"><B>Output</B></SPAN></P>
+<P =
+align=3Dleft>=B9=EF=A8C=B2=D5=B4=FA=B8=D5=B8=EA=AE=C6=BD=D0=BF=E9=A5XHash=
+mat=BBP=BC=C4=A4H=A4h=A7L=BC=C6=A5=D8=AA=BA=AEt=A1]=A5=BF=BC=C6=A1^=A1C</=
+P>
+<P style=3D"BACKGROUND-COLOR: #00ff00" align=3Dleft><SPAN=20
+style=3D"BACKGROUND-COLOR: #00ff00"><B>Sample =
+input</B></SPAN></P><PRE>10 12
+14 10
+100 200</PRE>
+<P style=3D"BACKGROUND-COLOR: #00ff00" align=3Dleft><SPAN=20
+style=3D"BACKGROUND-COLOR: #00ff00"><B>Sample =
+Output</B></SPAN></P><PRE>2
+4
+100</PRE></BODY></HTML>

@@ -1,0 +1,142 @@
+From: <Saved by UnMHT>
+Subject: =?iso-2022-jp?B??=
+Date: Wed, Jul 08 2009 17:35:04 GMT+0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0000_56A21063.44EA65B9";
+	type="text/html"
+
+------=_NextPart_000_0000_56A21063.44EA65B9
+Content-Type: text/html; charset="Big5"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://luckycat.kshs.kh.edu.tw/homework/q10530.htm
+
+<html><head>
+
+<meta content=3D"text/html; charset=3Dbig5" http-equiv=3D"Content-Type">
+<title></title>
+<base href=3D"http://luckycat.kshs.kh.edu.tw/homework/"></base></head><body=
+>
+
+<h1 align=3D"center">Q10530: Guessing Game</h1>             =
+=20
+<p>Stan =A9M Ollie =A6b=AA=B1=B2q=BC=C6=A6r=B9C=C0=B8=A1CStan =A4=DF=A4=A4=
+=B7Q=A4@=AD=D3=BC=C6=A6r=A1]1~10=A1^=A1A=C5=FD Ollie =A8=D3=B2q=A1C=A6b=A8C=
+=A4@=A6^=B2q=B4=FA=B9L=AB=E1=A1AStan =B7|=A7i=B6D Ollie=
+=20
+=A5L=B2q=AA=BA=A4=D3=B0=AA=A1A=A4=D3=A7C=A1A=A9=CE=ACO=B2q=A4=A4=A4F=A1C</p=
+>
+<p>=A6b=AA=B1=A4F=A4@=B0}=A4l=A4=A7=AB=E1=A1AOllie =B6}=A9l=C3h=BA=C3 Stan =
+=ACO=A4=A3=ACO=A5i=AF=E0=B4=DB=C4F=A1C=B7d=A4=A3=A6n=A6b=B9C=C0=B8=B6i=A6=
+=E6=A4=A4=A1AStan=
+=20
+=B0=BD=B0=BD=A6a=A7=E2=B5=AA=AE=D7=A7=EF=C5=DC=A4F=A1C=A9=D2=A5H=A6b=A8C=A4=
+@=A6^=A6X=B6i=A6=E6=B9L=AB=E1=A1AOllie =B3=A3=B7|=A4p=A4=DF=C1l=C1l=A6a=A7=
+=E2=A8C=AD=D3=B5=B2=AAG=B3=A3=AC=F6=BF=FD=A4U=A8=D3=A1A=C2=C7=A6=B9=A8=D3=
+=A7P=C2_ Stan=
+=20
+=ACO=A4=A3=ACO=A6=B3=B4=DB=C4F=AA=BA=A5i=AF=E0=A9=CA=A1C</p>
+<p align=3D"left" style=3D"background-color: rgb(255, 255, 0);"><span style=
+=3D"background-color: rgb(255, 255, 0);"><b>Input</b></span></p>           =
+        =
+=20
+<p><span lang=3D"zh-tw">=BF=E9=A4J=A7t=A6=B3=A6h=B2=D5=B9C=C0=B8=A1C</span>=
+</p>             =
+=20
+<p><span lang=3D"zh-tw">=A8C=A4@=B2=D5=B9C=C0=B8=A5]=A7t=B3\=A6h=A6^=A6X=A1=
+A=A8C=A4@=A6^=A6X=A5]=A7t Ollie =AA=BA=B2q=B4=FA=A9M=
+=20
+Stan =AA=BA=A6^=C0=B3=A1COllie =AA=BA=B2q=B4=FA=B1N=B7|=ACO 1~10 =A4=A7=A4=
+=A4=AA=BA=A4@=AD=D3=BC=C6=A6r=A1AStan =AA=BA=A6^=C0=B3=B1N=B7|=ACO too high=
+, too low, right on=
+=20
+=A4T=BA=D8=A5i=AF=E0=A9=CA=A1]=A4=C0=A7O=A5N=AA=ED=B2q=B1o=A4=D3=B0=AA=A1A=
+=A4=D3=A7C=A1A=B2q=A4=A4=A1^=A1C=A8C=A4@=B2=D5=B9C=C0=B8=A5H right on =A8=
+=D3=A7P=C2_=B3o=A4@=B2=D5=B9C=C0=B8=AA=BA=B5=B2=A7=F4=A1C</span></p>       =
+      =
+=20
+<p><span lang=3D"zh-tw">=A6b=B3=CC=AB=E1=A4@=B2=D5=B9C=C0=B8=AB=E1=A6=B3=B6=
+=C8=A7t=A6=B3 0 =AA=BA=A4@=A6C=A1A=A5N=AA=ED=BF=E9=A4J=B5=B2=A7=F4=A1C</spa=
+n>=BD=D0=B0=D1=A6=D2Sample Input=A1C</p>              =
+=20
+<p align=3D"left" style=3D"background-color: rgb(255, 255, 0);"><span style=
+=3D"background-color: rgb(255, 255, 0);"><b>Output</b></span></p>          =
+                     =
+=20
+<p>=A8C=A4@=B2=D5=B9C=C0=B8=A7A=C0=B3=B8=D3=BF=E9=A5X Stan =ACO=A7_=BB=A1=
+=C1=C0=A1C=A6p=AAG Stan =BB=A1=C1=C0=A1A=BF=E9=A5X &quot;Stan is=
+=20
+dishonest&quot;, =A7_=ABh=BF=E9=A5X &quot;Stan may be honest&quot;=A1C=BD=
+=D0=B0=D1=A6=D2Sample Output=A1C</p>          =
+=20
+<table cellpadding=3D"5" border=3D"1" width=3D"100%">           =
+=20
+  <tbody><tr>           =
+=20
+    <td bgcolor=3D"#00ff00" width=3D"50%"><b>Sample Input</b></td>         =
+            =
+=20
+    <td bgcolor=3D"#00ff00" width=3D"50%"><b>Sample Output</b></td>        =
+            =
+=20
+  </tr>                    =
+=20
+  <tr>                    =
+=20
+    <td width=3D"50%">     =
+=20
+      <pre>10
+too high
+3
+too low
+4
+too high
+2
+right on
+5
+too low
+7
+too high
+6
+right on
+0
+</pre>=
+=20
+    </td>                    =
+=20
+    <td width=3D"50%">              =
+=20
+      <pre>Stan is dishonest
+Stan may be honest
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>=
+=20
+    </td>                   =
+=20
+  </tr>                   =
+=20
+</tbody></table>                   =
+=20
+                                                     =
+=20
+<p><font color=3D"#ffff00"><span style=3D"background-color: rgb(0, 0, 0);">=
+Translated by=
+=20
+Tino</span></font></p>=
+=20
+                                                   =
+=20
+</body></html>
+------=_NextPart_000_0000_56A21063.44EA65B9--
